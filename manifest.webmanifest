@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "Graphic Pad",
+  "short_name": "Graphic Pad",
+  "description": "A local-first SVG editor for designers and architects.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eeeeee",
+  "theme_color": "#344e3b",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
