@@ -1,6 +1,6 @@
 // Scope isolates this app from other GitHub Pages apps on the same origin.
 const PREFIX = `graphic-pad:${self.registration.scope}:`;
-const CACHE = `${PREFIX}f088038ee47f6390-ta-update-v3`;
+const CACHE = `${PREFIX}f088038ee47f6390-ta-update-v4`;
 const shell = new URL('./index.html', self.registration.scope).href;
 const assets = ['./index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-192.png', './icons/icon-maskable-512.png', './icons/icon.svg', './pwa-update.js']
   .map(path => new URL(path, self.registration.scope).href);
