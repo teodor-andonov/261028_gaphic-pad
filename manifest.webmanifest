@@ -1,7 +1,7 @@
 {
-  "id": "./",
-  "name": "Graphic Pad",
-  "short_name": "Graphic Pad",
+  "id": "/261028_gaphic-pad/",
+  "name": "TaGraphicpad",
+  "short_name": "TaGraphicpad",
   "description": "A local-first SVG editor for designers and architects.",
   "start_url": "./",
   "scope": "./",
